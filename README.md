@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Sahil Pawar 👋  
 
-<!--
-**sahil261005/sahil261005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
 
-Here are some ideas to get you started:
+I am a 4th-semester engineering student pursuing aBachelor's degree in Computer Science. Passionate about technology, I specialize in **Python, C++, MySQL and JavaScript, with a strong interest in AI/ML and Blockchain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills  
+
+- Programming: Python 🐍 | C++ ⚡ | JavaScript 🌐  
+- Development: Next.js | HTML | CSS  
+- Data Structures & Algorithms: Solving problems on LeetCode (150+ solved)    
+
+## 📚 Projects  
+
+- JOBDHUNDO - A job search website for job seekers, involves full stack development.
+- Slot machine - A visual slot maschine that user can bet on
+
+## 📫 Connect with Me  
+
+- **LinkedIn:** [Your LinkedIn Profile]  
+- **GitHub:** [Your GitHub Profile]  
+- **Email:** [Your Email]  
