@@ -2,13 +2,13 @@
 
 ## 🚀 About Me  
 
-I am a 4th-semester engineering student pursuing aBachelor's degree in Computer Science. Passionate about technology, I specialize in Python, C++, MySQL and JavaScript, with a strong interest in AI/ML and Blockchain.
+I am a 4th-semester engineering student pursuing my Bachelor's degree in Computer Science. Passionate about technology, I specialize in Python, C++, MySQL and JavaScript, with a strong interest in AI/ML and Blockchain.
 
 ## 💻 Skills  
 
 - Programming: Python 🐍 | C++ ⚡ | JavaScript 🌐  
 - Development: Next.js | HTML | CSS  
-- Data Structures & Algorithms: Solving problems on LeetCode (150+ solved)    
+- Data Structures & Algorithms(Python): Solving problems on LeetCode (150+ solved)    
 
 ## 📚 Projects  
 
