@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 
-I am a 4th-semester engineering student pursuing my Bachelor's degree in Computer Science. Passionate about technology, I specialize in Python, C++, MySQL and JavaScript, with a strong interest in AI/ML and Blockchain.
+I am a 5th-semester engineering student pursuing my Bachelor's degree in Computer Science. Passionate about technology, I specialize in Python, C++, MySQL and JavaScript, with a strong interest in AI/ML and Blockchain.
 
 ## 💻 Skills  
 
