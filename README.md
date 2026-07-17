@@ -3,7 +3,7 @@
 ## 🚀 About Me
 Final-year B.E. Computer Science Engineering student (SPPU, Pune), building applied GenAI systems — RAG pipelines, multi-agent orchestration, and evaluation-driven AI engineering. I care as much about *proving* a system works as building it.
 
-## 💻 Featured Projects
+## 💻 Main Projects
 
 ### 🏥 [HealthScribe](https://health-scribe-three.vercel.app)
 A full-stack medical records platform extracting and verifying prescriptions via a hybrid OCR pipeline (Sarvam AI + Gemini 2.5 Flash), with a LangChain + ChromaDB RAG chatbot for querying patient history.
